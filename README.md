@@ -46,3 +46,19 @@
 https://github.com/cartophan/todolist/issues
 
 ---
+
+## Стек
+
+Язык программирования:
+- Python
+
+Backend фреймворк:
+- FastAPI
+
+База данных:
+- SQLite
+
+Авторизация:
+- Google OAuth2
+
+
